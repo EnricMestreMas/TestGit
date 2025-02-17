@@ -1,4 +1,4 @@
-void sum() {
+void sum(int a, int b) {
 
 	3 + 4;
 }
