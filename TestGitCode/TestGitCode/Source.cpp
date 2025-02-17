@@ -1,6 +1,8 @@
+#include <iostream>
+
 void sum(int a, int b) {
 
-	3 + 4;
+	std::cout << a + b;
 }
 
 void main(){}
